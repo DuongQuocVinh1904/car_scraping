@@ -1,0 +1,11 @@
+'''Problems:
+            - Có thể KHÔNG CẦN chọn price range, location, condition,....
+            - 
+            - Cho phép chọn all Brand, Location, Condition
+            - Tạo control flow (ví dụ nếu minprice > maxprice ==> báo lỗi và không hiện những selectbox ở dưới
+            - Thêm background
+            - Drop duplicate Car và chỉ giữ lại car có mức giá tốt nhất
+            - Cập nhật tình trạng sold out or still available
+            - Crawl liên tục mỗi 3 ngày
+            - 
+            '''
